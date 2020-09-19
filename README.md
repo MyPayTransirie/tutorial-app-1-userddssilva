@@ -4,13 +4,13 @@ O objetivo desse tutorial é se familiarizar com alguns componentes básicos de 
 
 **OBSERVAÇÃO:** Ao invés de copiar com "Ctrl+C", leia na origem e digite no destino
 
-1. Altere os textos visíveis no app para a aplicação da sua equipe
+1. [x] Altere os textos visíveis no app para a aplicação da sua equipe 
    - Navegue pelas Activities e procure pelos textos a alterar
    - Alguns estarão em `strings.xml`
    - Outros estarão diretamente no layout
    - Outros no código `.kt`
    - Idealmente, todos os textos devem estar em `strings.xml`
-2. Abra o arquivo `Servico.kt` e modifique o nome das classes e hierarquia para a solução da sua equipe
+2. [x] (Minha equipe ficou com o projeto da lavanderia) Abra o arquivo `Servico.kt` e modifique o nome das classes e hierarquia para a solução da sua equipe
 3. Na classe `TabelaPrecosAdapter`, altere o string-array, altere os tipos gerais de serviço para a sua equipe
 4. Na activity `AlterarPrecosActivity`
    - Altere os servicos de exemplo para alguns da sua equipe

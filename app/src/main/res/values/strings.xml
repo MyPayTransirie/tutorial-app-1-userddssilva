@@ -42,6 +42,17 @@
     <string name="inicializacao">Inicialização</string>
     <string name="caixa">Caixa</string>
     <string name="caixa_fechado">O caixa foi fechado</string>
+    <string name="real_signo">R$</string>
+    <string name="example_table_value">000</string>
+    <string name="alterar_tabela_pre_o">Alterar Tabela Preço</string>
+    <string name="abrir_caixa">Abrir Caixa</string>
+    <string name="link_para_arquivo">Link para Arquivo</string>
+    <string name="tipo_de_servi_o">Tipo de Serviço</string>
+    <string name="salvar">Salvar</string>
+    <string name="insertIntoEnterprise">Cadastro de Empresa</string>
+    <string name="value_ten">" 10"</string>
+    <string name="simple_wash">Lavagem Simples</string>
+    <string name="textEditButton">Editar</string>
 
     <string-array name="tipos_servico">
         <item>Selecione</item>
